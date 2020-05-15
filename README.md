@@ -4,6 +4,3 @@
 
 # Challenge Details The tasks associated with this dataset were developed and evaluated by global front line healthcare providers, hospitals, suppliers, and policy makers. They represent key research questions where insights developed by the Kaggle community can be most impact in the areas of at-risk population evaluation and capacity management. To participate in this challenge, review the research questions posed in the dataset tasks and submit solutions in the form of Kaggle Notebooks.
 
-We encourage participants to use the presented data and if needed, their own proprietary and non-proprietary datasets to create their submissions.
-
-The link of dataset Kaggle Dataset
